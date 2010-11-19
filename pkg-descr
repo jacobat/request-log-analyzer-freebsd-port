@@ -1,0 +1,4 @@
+A command line tool that analyzes request logfiles (e.g. Rails, Merb, Apache)
+to produce a performance report.
+
+WWW: https://github.com/wvanbergen/request-log-analyzer/
